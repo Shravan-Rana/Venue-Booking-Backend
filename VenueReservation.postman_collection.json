@@ -7,7 +7,7 @@
   "variable": [
     {
       "key": "base_url",
-      "value": "https://venubookingbackend.onrender.com",
+      "value": "https://venue-booking-backend-a79i.onrender.com",
       "type": "string"
     }
   ],
